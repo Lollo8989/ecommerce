@@ -10,7 +10,6 @@
     </parent>
 
     <artifactId>frontend</artifactId>
-
     <name>frontend</name>
 
     <properties>
